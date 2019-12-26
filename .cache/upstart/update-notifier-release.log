@@ -1,0 +1,4 @@
+Wed Dec 25 12:11:49 IST 2019 new release available
+/usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+WARNING:root:found new dist 'bionic' but it is on the ignore list

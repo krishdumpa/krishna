@@ -1,0 +1,4 @@
+WARN  2019-12-25 13:13:52 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2019-12-25 15:59:58 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2019-12-25 15:59:58 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x1a71270 at position 11. The row has probably been removed
+ERROR 2019-12-25 15:59:58 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x1a71270 holds a NULL value in row 11

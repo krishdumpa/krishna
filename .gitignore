@@ -1,0 +1,5 @@
+*.html
+*.php
+!index.html
+!dumpa.html
+
